@@ -38,13 +38,18 @@ Feliz-Ano-Novo-2025/
 
 ## ⚙️ Personalização
 
-Mensagens: Para alterar as mensagens animadas, edite as classes letters-1, letters-2, etc., no HTML.
-Configurações de Texto: Ajuste os parâmetros de animação no objeto fwTextOverlay no código.
-Fogos de Artifício: Personalize cores, velocidade e gravidade no objeto Fireworks.
-🧩 Pré-requisitos
-Navegador compatível com Canvas API e JavaScript habilitado.
-📝 Licença
-Este projeto está licenciado sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
+- **Mensagens:** Para alterar as mensagens animadas, edite as classes ```letters-1```, ```letters-2```, etc., no HTML.
 
-🤝 Contribuições
-Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar pull requests.
+- **Configurações de Texto:** Ajuste os parâmetros de animação no objeto ```fwTextOverlay``` no código.
+
+- **Fogos de Artifício:** Personalize cores, velocidade e gravidade no objeto Fireworks.
+
+## 🧩 Pré-requisitos
+
+Navegador compatível com **Canvas API** e **JavaScript** habilitado.
+
+## 📝 Licença
+Este projeto está licenciado sob a **licença MIT**. Veja o arquivo LICENSE para mais detalhes.
+
+## 🤝 Contribuições
+Contribuições são bem-vindas! Sinta-se à vontade para abrir **issues** ou enviar **pull requests**.
