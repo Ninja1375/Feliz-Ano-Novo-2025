@@ -30,10 +30,14 @@ Feliz-Ano-Novo-2025/
 
 1. Faça o download ou clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/feliz-ano-novo-2025.git
-Abra o arquivo index.html em qualquer navegador moderno.
-Divirta-se clicando na tela para interagir com os fogos de artifício.
-⚙️ Personalização
+   git clone https://github.com/Ninja1375/Feliz-Ano-Novo-2025.git
+   ```
+2. Abra o arquivo ```index.html``` em qualquer navegador moderno.
+
+3. Divirta-se clicando na tela para interagir com os fogos de artifício.
+
+## ⚙️ Personalização
+
 Mensagens: Para alterar as mensagens animadas, edite as classes letters-1, letters-2, etc., no HTML.
 Configurações de Texto: Ajuste os parâmetros de animação no objeto fwTextOverlay no código.
 Fogos de Artifício: Personalize cores, velocidade e gravidade no objeto Fireworks.
