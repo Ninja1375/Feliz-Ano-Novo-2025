@@ -46,10 +46,10 @@ Feliz-Ano-Novo-2025/
 
 ## 🧩 Pré-requisitos
 
-Navegador compatível com **Canvas API** e **JavaScript** habilitado.
+- Navegador compatível com **Canvas API** e **JavaScript habilitado**.
 
 ## 📝 Licença
-Este projeto está licenciado sob a **licença MIT**. Veja o arquivo LICENSE para mais detalhes.
+Este projeto está licenciado sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
 
 ## 🤝 Contribuições
 Contribuições são bem-vindas! Sinta-se à vontade para abrir **issues** ou enviar **pull requests**.
