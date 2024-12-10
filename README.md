@@ -1,4 +1,3 @@
-
 # Feliz Ano Novo 2025 🎆
 
 Um projeto interativo que combina efeitos animados de texto com fogos de artifício realistas, criado para celebrar o Ano Novo de maneira criativa e envolvente. Ideal para websites ou apresentações temáticas.
@@ -11,8 +10,8 @@ Um projeto interativo que combina efeitos animados de texto com fogos de artifí
 
 ## 🛠️ Tecnologias Utilizadas
 
-- **HTML5**: Para a estrutura da página.
-- **CSS3**: Para estilizar o texto e o layout.
+- **HTML**: Para a estrutura da página.
+- **CSS**: Para estilizar o texto e o layout.
 - **JavaScript**: Para animações e interatividade.
 - **Anime.js**: Biblioteca poderosa para animações de texto.
 - **Canvas API**: Para desenhar e animar os fogos de artifício.
