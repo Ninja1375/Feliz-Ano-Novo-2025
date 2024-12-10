@@ -18,3 +18,26 @@ Um projeto interativo que combina efeitos animados de texto com fogos de artifí
 
 ## 📂 Estrutura de Arquivos
 
+feliz-ano-novo-2025/ ├── index.html # Página principal ├── style.css # Arquivo de estilos ├── script.js # Código JavaScript ├── README.md # Documentação do projeto └── assets/ # (Opcional) Arquivos adicionais, como imagens ou fontes
+
+bash
+Copiar código
+
+## 🚀 Como Usar
+
+1. Faça o download ou clone o repositório:
+   ```bash
+   git clone https://github.com/seu-usuario/feliz-ano-novo-2025.git
+Abra o arquivo index.html em qualquer navegador moderno.
+Divirta-se clicando na tela para interagir com os fogos de artifício.
+⚙️ Personalização
+Mensagens: Para alterar as mensagens animadas, edite as classes letters-1, letters-2, etc., no HTML.
+Configurações de Texto: Ajuste os parâmetros de animação no objeto fwTextOverlay no código.
+Fogos de Artifício: Personalize cores, velocidade e gravidade no objeto Fireworks.
+🧩 Pré-requisitos
+Navegador compatível com Canvas API e JavaScript habilitado.
+📝 Licença
+Este projeto está licenciado sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
+
+🤝 Contribuições
+Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar pull requests.
