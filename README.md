@@ -18,10 +18,11 @@ Um projeto interativo que combina efeitos animados de texto com fogos de artifí
 
 ## 📂 Estrutura de Arquivos
 
-feliz-ano-novo-2025/ ├── index.html # Página principal ├── style.css # Arquivo de estilos ├── script.js # Código JavaScript ├── README.md # Documentação do projeto └── assets/ # (Opcional) Arquivos adicionais, como imagens ou fontes
-
-bash
-Copiar código
+Feliz-Ano-Novo-2025/ 
+├── index.html # Página principal 
+├── style.css # Arquivo de estilos 
+├── script.js # Código JavaScript 
+├── README.md # Documentação do projeto
 
 ## 🚀 Como Usar
 
