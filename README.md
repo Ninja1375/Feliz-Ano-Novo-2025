@@ -19,7 +19,7 @@ Um projeto interativo que combina efeitos animados de texto com fogos de artifí
 <a href="https://animejs.com/" target="_blank">
   <img loading="lazy" src="https://avatars.githubusercontent.com/u/25964592?s=200&v=4" width="40" height="40" alt="Anime.js Logo"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API" target="_blank">
-  <img loading="lazy" src="https://i.ibb.co/FWVJ84d/Canvas.png" width="50" height="50" alt="Canvas API Logo"/>
+  <img loading="lazy" src="https://i.ibb.co/FWVJ84d/Canvas.png" width="40" height="40" alt="Canvas API Logo"/>
 </a>
 
 
