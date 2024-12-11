@@ -13,17 +13,13 @@ Um projeto interativo que combina efeitos animados de texto com fogos de artifí
 ## 🛠️ Tecnologias Utilizadas  
 
 <a href="https://programartudo.blogspot.com/2024/11/html-tudo-o-que-precisa-para-comecar.html" target="_blank">
-  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
-</a> 
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/></a> 
 <a href="https://programartudo.blogspot.com/2024/11/css-como-dar-estilo-ao-teu-website.html" target="_blank">
-  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
-</a> 
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/></a> 
 <a href="https://programartudo.blogspot.com/2024/11/javascript-linguagem-dinamica-da-web.html" target="_blank">
-  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
-</a>
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/></a>
 <a href="https://animejs.com/" target="_blank">
-  <img loading="lazy" src="https://avatars.githubusercontent.com/u/25964592?s=200&v=4" width="40" height="40" alt="Anime.js Logo"/>
-</a>
+  <img loading="lazy" src="https://avatars.githubusercontent.com/u/25964592?s=200&v=4" width="40" height="40" alt="Anime.js Logo"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API" target="_blank">
   <img loading="lazy" src="https://i.ibb.co/FWVJ84d/Canvas.png" width="40" height="40" alt="Canvas API Logo"/>
 </a>
