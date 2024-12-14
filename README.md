@@ -2,6 +2,10 @@
 
 Um projeto interativo que combina efeitos animados de texto com fogos de artifício realistas, criado para celebrar o Ano Novo de maneira criativa e envolvente. Ideal para websites ou apresentações temáticas.
 
+## Captura de Tela 
+
+![Feliz Ano Novo 2025](https://github.com/user-attachments/assets/b5bbeb74-8c14-48e4-a657-ba3d7e95855c)
+
 ## 🎉 Funcionalidades
 
 - **Texto Animado**: Mensagens aparecem com efeitos de escala e opacidade, criando uma experiência visual envolvente.
